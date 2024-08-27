@@ -6,6 +6,73 @@
     <title>Formulario HTML</title>
 </head>
 <body>
-    
+    <h1>Formularios </h1> <!-- Título da página -->
+
+    <form>
+        <input type="text" placeholder="seu nome" required> <!-- Campo de texto para o nome, com um placeholder e obrigatório -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputEmail">Digite seu email: </label> <!-- Rótulo para o campo de email -->
+        <input id="inputEmail" type="email"> <!-- Campo para o email, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputNumero">Digite seu numero </label> <!-- Rótulo para o campo de número de telefone -->
+        <input type="tel" id="inputNumero"> <!-- Campo para o número de telefone, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputValor">Digite um valor</label> <!-- Rótulo para o campo de número -->
+        <input type="number" id="inputValor"> <!-- Campo para inserir um número, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputValor2">Digite um valor</label> <!-- Rótulo para o campo de número com limites -->
+        <input type="number" id="inputValor2" max="100" min="0"> <!-- Campo para número com limites mínimo e máximo, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputValor3">Digite um valor</label> <!-- Rótulo para o campo de número com incremento -->
+        <input type="number" id="inputValor3" step="10"> <!-- Campo para número com incremento de 10, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <input type="file"> <!-- Campo para seleção de arquivos -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="inputColor">Escolha uma cor </label> <!-- Rótulo para o seletor de cores -->
+        <input type="color" id="inputColor"> <!-- Campo para escolha de cor, associado ao rótulo pelo id -->
+        <br> <!-- Quebra de linha -->
+
+        <input type="checkbox" id="inputCheckbox"> <label for="inputCheckbox"> Aceito os termos</label> <!-- Caixa de seleção para aceitar termos, com rótulo associado -->
+        <br> <!-- Quebra de linha -->
+
+        <p>Qual seu personagem? </p> <!-- Pergunta sobre o personagem -->
+        <input type="radio" name="inputRadio" id="personagem1"> <label for="personagem1"> Akali</label> <!-- Opção de rádio para personagem Akali -->
+        <br> <!-- Quebra de linha -->
+        <input type="radio" name="inputRadio" id="personagem2"> <label for="personagem2">Xin-Zhao</label> <!-- Opção de rádio para personagem Xin-Zhao -->
+        <br> <!-- Quebra de linha -->
+        <input type="radio" name="inputRadio" id="personagem3"> <label for="personagem3">Kayn</label> <!-- Opção de rádio para personagem Kayn -->
+        <br> <!-- Quebra de linha -->
+
+        <label for="">Qual o seu carro favorito?</label> <!-- Pergunta sobre carro favorito -->
+        <select> <!-- Campo de seleção para carro favorito -->
+            <option value="">Gol</option> <!-- Opção para carro Gol -->
+            <option value="">Uno</option> <!-- Opção para carro Uno -->
+            <option value="">Celta</option> <!-- Opção para carro Celta -->
+        </select>
+        <br> <br> <!-- Quebra de linha dupla -->
+
+        <label for="">Qual o seu lanche favorito?(multipla escolha)</label> <!-- Pergunta sobre lanche favorito com múltipla escolha -->
+        <select multiple> <!-- Campo de seleção múltipla para lanches -->
+            <option value="">Hot-Dog</option> <!-- Opção para Hot-Dog -->
+            <option value="">Pizza</option> <!-- Opção para Pizza -->
+            <option value="">Hamburguer</option> <!-- Opção para Hamburguer -->
+        </select>
+        <br> <br> <!-- Quebra de linha dupla -->
+
+        <textarea></textarea> <!-- Campo de texto para entrada de múltiplas linhas -->
+        <br> <br> <!-- Quebra de linha dupla -->
+
+        <button>me toque</button> <!-- Botão genérico -->
+        <button type="submit">Enviar</button> <!-- Botão para enviar o formulário -->
+        <button type="reset">Limpar</button> <!-- Botão para limpar o formulário -->
+    </form>
 </body>
+
 </html>
