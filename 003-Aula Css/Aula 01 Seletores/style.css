@@ -1,0 +1,19 @@
+* {
+    /* Seleciona todos os elementos e aplica estilos a todos eles */
+}
+
+body {
+    /* Seleciona o elemento <body> e aplica estilos a ele */
+}
+
+#animes h2 {
+    color: rgb(212, 210, 63); /* Define a cor do texto dos <h2> dentro do elemento com id "animes" */
+}
+
+#mangas h2 {
+    color: brown; /* Define a cor do texto dos <h2> dentro do elemento com id "mangas" */
+}
+
+.dateCreation {
+    color: rgb(105, 105, 104); /* Define a cor do texto dos elementos com a classe "dateCreation" */
+}
