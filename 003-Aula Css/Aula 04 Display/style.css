@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box; /* Inclui as bordas e o padding no cálculo total da largura e altura dos elementos */
+    padding: 0; /* Remove todo o preenchimento padrão de todos os elementos */
+    margin: 0; /* Remove todas as margens padrão de todos os elementos */
+}  /* Seleciona todos os elementos e aplica estilos a todos eles */
+
+.containerHeader {
+    display: inline
+}
+
+.container {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.articles {
+    display: flex;
+}
+
+.articles article img {
+    height: 250px;
+}
