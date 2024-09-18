@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"de4ce952e6a36b7d","type":"text","text":"Tipos de variaveis","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"03b37b88cfd2515a","type":"text","text":"var","x":-440,"y":80,"width":250,"height":60,"color":"1"},
+		{"id":"22a1467dc235b96b","type":"text","text":"const","x":-125,"y":80,"width":250,"height":60,"color":"#002aff"},
+		{"id":"35d1fa90d16017d8","type":"text","text":"let","x":180,"y":80,"width":250,"height":60,"color":"4"},
+		{"id":"3c218343f3e04890","type":"text","text":"Tipos de variaveis","x":-125,"y":-30,"width":250,"height":60,"color":"3"},
+		{"id":"38362f86cfaab85c","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/Introdução ao canva.md","x":0,"y":-160,"width":360,"height":60,"color":"3"},
+		{"id":"c43acd01a12b066b","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/nota Var.md","x":-620,"y":220,"width":180,"height":50,"color":"1"},
+		{"id":"b9abe012751ead90","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/imgs/img exemplo variavel var.png","x":-840,"y":380,"width":400,"height":262,"color":"1"},
+		{"id":"a43ab1c4c6e5b586","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/imgs/img exemplo variavel let.png","x":430,"y":380,"width":400,"height":240,"color":"4"},
+		{"id":"d0dcdb32d28d963b","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/nota Let.md","x":430,"y":220,"width":175,"height":50,"color":"4"},
+		{"id":"1484eaa8eb55a846","type":"file","file":"programaçao/JAVA SCRIPT/Constantes e variaveis/nota Const.md","x":-109,"y":220,"width":219,"height":50,"color":"#0033ff"},
+		{"id":"aab132bacbcc0074","type":"file","file":"img exemplo de variavel const.png","x":-200,"y":380,"width":400,"height":106,"color":"#2b00ff"}
+	],
+	"edges":[
+		{"id":"b7f399c6b57bd492","fromNode":"3c218343f3e04890","fromSide":"left","toNode":"03b37b88cfd2515a","toSide":"top","color":"3"},
+		{"id":"68f98815c5bec448","fromNode":"3c218343f3e04890","fromSide":"right","toNode":"35d1fa90d16017d8","toSide":"top","color":"3"},
+		{"id":"17005f03bd249c71","fromNode":"3c218343f3e04890","fromSide":"bottom","toNode":"22a1467dc235b96b","toSide":"top","color":"3"},
+		{"id":"00671274571fbf2b","fromNode":"03b37b88cfd2515a","fromSide":"bottom","toNode":"c43acd01a12b066b","toSide":"top","color":"1"},
+		{"id":"712a4744e8c9615c","fromNode":"c43acd01a12b066b","fromSide":"bottom","toNode":"b9abe012751ead90","toSide":"top","color":"1"},
+		{"id":"67923eca6c4bef0f","fromNode":"3c218343f3e04890","fromSide":"top","toNode":"38362f86cfaab85c","toSide":"left","color":"3"},
+		{"id":"ae4bf25160115da8","fromNode":"35d1fa90d16017d8","fromSide":"bottom","toNode":"d0dcdb32d28d963b","toSide":"top","color":"4"},
+		{"id":"8a4ecee040418b07","fromNode":"d0dcdb32d28d963b","fromSide":"bottom","toNode":"a43ab1c4c6e5b586","toSide":"top","color":"4"},
+		{"id":"35cd52fe0e62b6eb","fromNode":"22a1467dc235b96b","fromSide":"bottom","toNode":"1484eaa8eb55a846","toSide":"top","color":"#1100ff"},
+		{"id":"119845f7bb5dc931","fromNode":"1484eaa8eb55a846","fromSide":"bottom","toNode":"aab132bacbcc0074","toSide":"top","color":"#4400ff"}
+	]
+}
