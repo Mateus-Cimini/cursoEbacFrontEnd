@@ -7,3 +7,7 @@ console.log(vilians);
 
 console.log(vilians.length)
 
+heroes.push('Batman')
+heroes.push('Robin', 'Bat-Girl')
+console.log(heroes)
+console.log(heroes.length)
