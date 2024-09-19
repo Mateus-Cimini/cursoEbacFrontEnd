@@ -18,3 +18,8 @@ console.log(typeof(fome))
 
 let carro;
 console.log(typeof(carro))
+
+
+// mudando o tipo de dado de uma variavel
+console.log(typeof(fruta));
+console.log(typeof(parseInt(fruta))) 
