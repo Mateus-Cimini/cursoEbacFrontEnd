@@ -16,3 +16,5 @@ console.log(typeof(banho))
 let fome = false;
 console.log(typeof(fome))
 
+let carro;
+console.log(typeof(carro))
