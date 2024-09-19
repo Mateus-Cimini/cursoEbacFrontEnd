@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"343e54661aa88457","type":"file","file":"programaçao/JAVA SCRIPT/Arrays JavaScript/Introdução ao canvas.md","x":-220,"y":-100,"width":376,"height":50,"color":"3"},
+		{"id":"41b6a9e1b22b13d9","type":"file","file":"programaçao/JAVA SCRIPT/Arrays JavaScript/notas/nota Arrays.md","x":-150,"y":60,"width":230,"height":50,"color":"1"},
+		{"id":"c110d88521fa843b","type":"file","file":"programaçao/JAVA SCRIPT/Arrays JavaScript/imgs/img exemplo de um array.png","x":-231,"y":220,"width":400,"height":342,"color":"1"}
+	],
+	"edges":[
+		{"id":"c42d9901ae4df778","fromNode":"343e54661aa88457","fromSide":"bottom","toNode":"41b6a9e1b22b13d9","toSide":"top","color":"3"},
+		{"id":"4b0799974f37e4c5","fromNode":"41b6a9e1b22b13d9","fromSide":"bottom","toNode":"c110d88521fa843b","toSide":"top","color":"1"}
+	]
+}
