@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"5c55f94c7fc5d053","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/Introdução ao canva.md","x":-220,"y":-120,"width":340,"height":50,"color":"3"},
+		{"id":"1c1382cc570b2126","type":"text","text":"Tipos de dados","x":-150,"y":-20,"width":200,"height":50,"color":"3"},
+		{"id":"6f73f328d23d9b2b","type":"text","text":"int","x":-212,"y":70,"width":125,"height":50,"color":"1"},
+		{"id":"41ed21ec37502d28","type":"text","text":"string","x":-420,"y":70,"width":140,"height":50,"color":"4"},
+		{"id":"447fb48bb436f6ed","type":"text","text":"float","x":20,"y":70,"width":130,"height":50,"color":"2"},
+		{"id":"4ad6eee1b21290f3","type":"text","text":"boolean","x":220,"y":70,"width":140,"height":50,"color":"6"},
+		{"id":"188cc1cd33238368","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/notas/nota  boolean.md","x":290,"y":151,"width":250,"height":50,"color":"6"},
+		{"id":"1e0de7441b4ad54e","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/notas/nota string.md","x":-566,"y":151,"width":216,"height":50,"color":"4"},
+		{"id":"e80af3c3da9b6f5b","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/notas/nota int.md","x":-235,"y":151,"width":172,"height":50,"color":"1"},
+		{"id":"5f58e85e2e79c051","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/notas/nota float.md","x":-15,"y":151,"width":200,"height":50,"color":"2"},
+		{"id":"27cf7413ff1aca3a","x":-205,"y":280,"width":325,"height":60,"color":"5","type":"text","text":"Convertendo um tipo para o outro"},
+		{"id":"bf2f2ebf70929280","x":-272,"y":400,"width":460,"height":50,"color":"5","type":"file","file":"programaçao/JAVA SCRIPT/Tipos de dados/notas/Conversão de tipos de dados.md"}
+	],
+	"edges":[
+		{"id":"b9675ce1c74a6482","fromNode":"5c55f94c7fc5d053","fromSide":"bottom","toNode":"1c1382cc570b2126","toSide":"top","color":"3"},
+		{"id":"c73ad5dc08f8e42d","fromNode":"1c1382cc570b2126","fromSide":"left","toNode":"41ed21ec37502d28","toSide":"top","color":"4"},
+		{"id":"3f6eb69ce719fd4a","fromNode":"1c1382cc570b2126","fromSide":"right","toNode":"4ad6eee1b21290f3","toSide":"top","color":"6"},
+		{"id":"6995dcd4ac0adacd","fromNode":"1c1382cc570b2126","fromSide":"bottom","toNode":"6f73f328d23d9b2b","toSide":"top","color":"1"},
+		{"id":"5b3f983a03a083a5","fromNode":"1c1382cc570b2126","fromSide":"bottom","toNode":"447fb48bb436f6ed","toSide":"top","color":"2"},
+		{"id":"2d83afdde64a468a","fromNode":"4ad6eee1b21290f3","fromSide":"right","toNode":"188cc1cd33238368","toSide":"top","color":"6"},
+		{"id":"390b4d81d74751ec","fromNode":"447fb48bb436f6ed","fromSide":"bottom","toNode":"5f58e85e2e79c051","toSide":"top","color":"2"},
+		{"id":"f20b8a1c4711e331","fromNode":"6f73f328d23d9b2b","fromSide":"bottom","toNode":"e80af3c3da9b6f5b","toSide":"top","color":"1"},
+		{"id":"11827b138151666a","fromNode":"41ed21ec37502d28","fromSide":"left","toNode":"1e0de7441b4ad54e","toSide":"top","color":"4"},
+		{"id":"ff2ea7024736eb64","fromNode":"1e0de7441b4ad54e","fromSide":"bottom","toNode":"27cf7413ff1aca3a","toSide":"left","color":"4"},
+		{"id":"958e13c8ed60ec2b","fromNode":"e80af3c3da9b6f5b","fromSide":"bottom","toNode":"27cf7413ff1aca3a","toSide":"top","color":"1"},
+		{"id":"02fcedddc688c9f8","fromNode":"5f58e85e2e79c051","fromSide":"bottom","toNode":"27cf7413ff1aca3a","toSide":"top","color":"2"},
+		{"id":"3024a6b9a027b5f6","fromNode":"188cc1cd33238368","fromSide":"bottom","toNode":"27cf7413ff1aca3a","toSide":"right","color":"6"},
+		{"id":"936a4c256912354b","fromNode":"27cf7413ff1aca3a","fromSide":"bottom","toNode":"bf2f2ebf70929280","toSide":"top"},
+		{"id":"f2a4276cb2f51bbf","fromNode":"27cf7413ff1aca3a","fromSide":"bottom","toNode":"bf2f2ebf70929280","toSide":"top","color":"5"}
+	]
+}
