@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"82d618fc30d84789","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/Introduçao ao canvas.md","x":-9,"y":-116,"width":349,"height":50,"color":"3"},
+		{"id":"227aa11c3a75e70d","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/notas/nota Loops.md","x":42,"y":20,"width":248,"height":52,"color":"6"},
+		{"id":"64c528a7e15dc589","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/notas/nota For.md","x":-160,"y":140,"width":180,"height":50,"color":"4"},
+		{"id":"6dbf8049abef6a79","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/notas/nota while.md","x":65,"y":140,"width":202,"height":50,"color":"1"},
+		{"id":"d74301c163a7f8a7","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/notas/nota Do While.md","x":320,"y":140,"width":270,"height":50,"color":"2"},
+		{"id":"357deb3765a2a36f","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/imgs/img exemplo loop for.png","x":-520,"y":240,"width":400,"height":128,"color":"4"},
+		{"id":"a2e8a8da3110254a","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/imgs/img exemplo do loop while.png","x":-33,"y":240,"width":398,"height":110,"color":"1"},
+		{"id":"024cec68e60135c6","type":"file","file":"programaçao/JAVA SCRIPT/Loops for e while/imgs/img exemplo loop do while.png","x":420,"y":227,"width":400,"height":155,"color":"2"}
+	],
+	"edges":[
+		{"id":"8aeca3cafc1bf5ad","fromNode":"82d618fc30d84789","fromSide":"bottom","toNode":"227aa11c3a75e70d","toSide":"top","color":"3"},
+		{"id":"8908d7b2c6743897","fromNode":"227aa11c3a75e70d","fromSide":"left","toNode":"64c528a7e15dc589","toSide":"top","color":"6"},
+		{"id":"72bedb46c73191e1","fromNode":"227aa11c3a75e70d","fromSide":"bottom","toNode":"6dbf8049abef6a79","toSide":"top","color":"6"},
+		{"id":"629ee87881c94cb9","fromNode":"227aa11c3a75e70d","fromSide":"right","toNode":"d74301c163a7f8a7","toSide":"top","color":"6"},
+		{"id":"1896942ed61a3593","fromNode":"64c528a7e15dc589","fromSide":"left","toNode":"357deb3765a2a36f","toSide":"top","color":"4"},
+		{"id":"95e1af324c4e3952","fromNode":"6dbf8049abef6a79","fromSide":"bottom","toNode":"a2e8a8da3110254a","toSide":"top","color":"1"},
+		{"id":"93a89cebd5aadfb2","fromNode":"d74301c163a7f8a7","fromSide":"right","toNode":"024cec68e60135c6","toSide":"top","color":"2"}
+	]
+}
