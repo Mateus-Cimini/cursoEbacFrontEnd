@@ -10,3 +10,9 @@ while(phrase < champions.length) { // Loop 'while' continua enquanto 'phrase' fo
     console.log('O meu campeão preferido é: ' + champions[phrase]); // Exibe o nome do campeão preferido, com base no valor de 'phrase'
     phrase++; // Incrementa 'phrase' para passar ao próximo campeão
 }
+
+let n = 0;
+do {
+    console.log('O campeão mais forte é: ' + champions[n]);
+    n++
+} while (n < champions.length)
