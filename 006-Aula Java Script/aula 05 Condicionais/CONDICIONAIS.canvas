@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5431fe45e96fdfe1","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/Introdução ao canvas.md","x":-166,"y":-101,"width":346,"height":61,"color":"3"},
+		{"id":"deda76c6cb89598c","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota Condicionais.md","x":-148,"y":60,"width":311,"height":50,"color":"4"},
+		{"id":"d7e225cba8073069","x":-101,"y":160,"width":217,"height":55,"color":"6","type":"text","text":"Tipos de condicionais"},
+		{"id":"3fd3f9762ca528bb","x":-339,"y":190,"width":179,"height":50,"color":"1","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota If.md"},
+		{"id":"0aa591ffa463cc76","x":-349,"y":265,"width":200,"height":50,"color":"2","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota Else.md"},
+		{"id":"9d526d735083d989","x":-357,"y":340,"width":215,"height":50,"color":"5","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota Else if.md"},
+		{"id":"cc5a86aeeacf3ff3","x":163,"y":190,"width":220,"height":50,"color":"#1a29ff","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota Switch.md"},
+		{"id":"4f498fca14c016f8","x":163,"y":265,"width":380,"height":55,"color":"#df4985","type":"file","file":"programaçao/JAVA SCRIPT/Condicionais/notas/nota Operador Ternário.md"}
+	],
+	"edges":[
+		{"id":"53851b591f04a23b","fromNode":"5431fe45e96fdfe1","fromSide":"bottom","toNode":"deda76c6cb89598c","toSide":"top","color":"3"},
+		{"id":"5428b3686fe67361","fromNode":"deda76c6cb89598c","fromSide":"bottom","toNode":"d7e225cba8073069","toSide":"top","color":"4"},
+		{"id":"279b4416557abc39","fromNode":"d7e225cba8073069","fromSide":"left","toNode":"3fd3f9762ca528bb","toSide":"right","color":"6"},
+		{"id":"c509044570d50672","fromNode":"d7e225cba8073069","fromSide":"bottom","toNode":"0aa591ffa463cc76","toSide":"right","color":"6"},
+		{"id":"bb3edc39f6a55ec5","fromNode":"d7e225cba8073069","fromSide":"bottom","toNode":"9d526d735083d989","toSide":"right","color":"6"},
+		{"id":"1621e75e43728b8f","fromNode":"d7e225cba8073069","fromSide":"right","toNode":"cc5a86aeeacf3ff3","toSide":"left","color":"6"},
+		{"id":"cf864c7f240fea4d","fromNode":"d7e225cba8073069","fromSide":"bottom","toNode":"4f498fca14c016f8","toSide":"left","color":"6"}
+	]
+}
