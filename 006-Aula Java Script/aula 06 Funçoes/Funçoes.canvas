@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a6e69636340d159e","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/Introduçao ao canvas.md","x":-180,"y":-60,"width":346,"height":62,"color":"3"},
+		{"id":"a1549981b328c771","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota Funções.md","x":-134,"y":100,"width":254,"height":50,"color":"1"},
+		{"id":"9a056a949d344783","type":"text","text":"TIPOS DE FUNÇOES\n","x":-109,"y":360,"width":205,"height":50,"color":"4"},
+		{"id":"27b13d3af30dd81d","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota  F Tradicional (Nomeada).md","x":-500,"y":220,"width":340,"height":80,"color":"5"},
+		{"id":"247f32ec97206d26","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F Anônima.md","x":-500,"y":360,"width":284,"height":50,"color":"6"},
+		{"id":"2cec7debc69ec985","x":-571,"y":476,"width":355,"height":50,"color":"#ff8080","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota Arrow Function.md"},
+		{"id":"25b608c0b2a99cc5","x":180,"y":250,"width":284,"height":50,"color":"#ff80d7","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F Recursiva.md"},
+		{"id":"445a81efce513f6a","x":143,"y":360,"width":321,"height":80,"color":"#8c00ff","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F com Valor Padrão.md"},
+		{"id":"99d9a44e003ae4d2","x":160,"y":476,"width":324,"height":120,"color":"#0062ff","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F de Ordem Superior (High-Order Function).md"},
+		{"id":"313573646ee1523d","x":193,"y":635,"width":303,"height":73,"color":"#ff9500","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F com Parâmetros Rest.md"},
+		{"id":"24f391f745562ac2","x":-607,"y":594,"width":365,"height":78,"color":"#d4ff00","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F Como Método de Objeto.md"},
+		{"id":"04d4dfe5ef4dd9a4","x":-160,"y":568,"width":302,"height":52,"color":"#80ffbd","type":"file","file":"programaçao/JAVA SCRIPT/Funçoes/notas/nota F Geradora.md"}
+	],
+	"edges":[
+		{"id":"7ef0124e90b9c1e9","fromNode":"a6e69636340d159e","fromSide":"bottom","toNode":"a1549981b328c771","toSide":"top","color":"3"},
+		{"id":"2c7c383fd2562693","fromNode":"a1549981b328c771","fromSide":"bottom","toNode":"9a056a949d344783","toSide":"top","color":"1"},
+		{"id":"4b93bddee21a3da0","fromNode":"9a056a949d344783","fromSide":"top","toNode":"27b13d3af30dd81d","toSide":"right","color":"4"},
+		{"id":"dd537a209d4d6842","fromNode":"9a056a949d344783","fromSide":"left","toNode":"247f32ec97206d26","toSide":"right","color":"4"},
+		{"id":"4a47616b24041d68","fromNode":"9a056a949d344783","fromSide":"left","toNode":"2cec7debc69ec985","toSide":"right","color":"4"},
+		{"id":"ed5b77331c59bca6","fromNode":"9a056a949d344783","fromSide":"top","toNode":"25b608c0b2a99cc5","toSide":"left","color":"4"},
+		{"id":"5d3e75e00b3f27bc","fromNode":"9a056a949d344783","fromSide":"right","toNode":"445a81efce513f6a","toSide":"left","color":"4"},
+		{"id":"8a160940940bd527","fromNode":"9a056a949d344783","fromSide":"bottom","toNode":"99d9a44e003ae4d2","toSide":"left","color":"4"},
+		{"id":"b2e6a5a909a4216e","fromNode":"9a056a949d344783","fromSide":"bottom","toNode":"04d4dfe5ef4dd9a4","toSide":"top","color":"4"},
+		{"id":"a659d27287a3b41a","fromNode":"9a056a949d344783","fromSide":"bottom","toNode":"24f391f745562ac2","toSide":"right","color":"4"},
+		{"id":"4e04eac6c6ee554d","fromNode":"9a056a949d344783","fromSide":"bottom","toNode":"313573646ee1523d","toSide":"left","color":"4"}
+	]
+}
