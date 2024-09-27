@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0f19789a311a95cd","x":-180,"y":-120,"width":381,"height":58,"color":"3","type":"file","file":"programaçao/JAVA SCRIPT/Escopo e Closures/Introdução ao canvas.md"},
+		{"id":"7810d194159922bf","x":-199,"y":80,"width":400,"height":60,"color":"4","type":"file","file":"programaçao/JAVA SCRIPT/Escopo e Closures/notas/nota Escopo e Closures.md"}
+	],
+	"edges":[
+		{"id":"20bebe315d04a91f","fromNode":"0f19789a311a95cd","fromSide":"bottom","toNode":"7810d194159922bf","toSide":"top","color":"3"}
+	]
+}
